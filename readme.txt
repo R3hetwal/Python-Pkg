@@ -1,1 +1,2 @@
 Creating Python Package Using Setuptools
+This is a simple package where the package code is present in __init__.py, and setup.py is used for its identification. The setup.py tells setuptools about our package. Similarly in __init__.py, we will write all the functions we want our package to have. We can use classes too for this cause. In setup.py, we have to import the setuptools module, and we are going to use its setup function here.
